@@ -48,6 +48,10 @@
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xhdpi/logo_signup.png"
     },
     {
+        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/ic_fenix.png",
+        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xhdpi/ic_fenix.png"
+    },
+    {
         "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xhdpi/pear.png",
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xhdpi/pear.png"
     },

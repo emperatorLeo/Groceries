@@ -1,4 +1,4 @@
-#Wed May 24 14:47:11 VET 2017
+#Wed May 24 17:07:15 VET 2017
 base.0=/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex

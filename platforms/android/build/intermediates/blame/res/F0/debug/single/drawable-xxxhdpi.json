@@ -32,6 +32,10 @@
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxxhdpi/apple.png"
     },
     {
+        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/ic_fenix.png",
+        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxxhdpi/ic_fenix.png"
+    },
+    {
         "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxxhdpi/checked_white.png",
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxxhdpi/checked_white.png"
     },

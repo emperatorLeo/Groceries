@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-hdpi/ic_fenix.png",
+        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-hdpi/ic_fenix.png"
+    },
+    {
         "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-hdpi/banana.png",
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-hdpi/banana.png"
     },
