@@ -6,10 +6,10 @@ import { Router } from "@angular/router";
 @Component({
   selector: "my-app",
   providers:[UserService],
-  templateUrl:"pages/login/login.html",
-  styleUrls: ["pages/login/login-common.css","pages/login/login.css"]
+  templateUrl:"pages/inicioSesion/inicioSesion.html",
+  styleUrls: ["pages/inicioSesion/inicioSesion-common.css","pages/inicioSesion/inicioSesion.css"]
 })
-export class LoginComponent {
+export class InicioSesionComponent {
   user : User;
   isLogginIn= true;
 
@@ -27,25 +27,28 @@ export class LoginComponent {
     }
 }
 login(){
-  this.router.navigate(["/inicioSesion"])
- /* this.userService.login(this.user).subscribe(
+  
+ /* this.router.navigate(["/"])
+  this.userService.login(this.user).subscribe(
     ()=> this.router.navigate(["/list"]),
     (error) => alert("no pudimos encontrar tu cuenta")
   )
 */
 }
 signUp(){
-  this.router.navigate(["/list"])
-  /*this.userService.register(this.user)
+  this.userService.register(this.user)
   .subscribe(
     ()=>{
       alert("tu cuenta ha sido creada exitosamente");
       this.toggleDisplay();
     },()=> alert("no se pudo crear tu cuenta")
-  );*/
+  );
 }
   toggleDisplay(){
     this.isLogginIn = !this.isLogginIn;
     this.user.clave = null;
+  }
+  forgot(){
+    this.router.navigate(["/recuperar"])
   }
 }

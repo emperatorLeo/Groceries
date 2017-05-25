@@ -1,0 +1,18 @@
+<StackLayout>
+  <Image src="res://fenix_logo" stretch="none" horizontalAlignment="center"></Image>
+  <TextField hint="Correo*" keyboardType="email" autocorrect="false" autocapilatizationType="none"></TextField>
+  <Label text= 'Presione recuperar y un código será' 
+   editable="false" textAlignment="center"></Label>
+  <Label text= 'enviado a su correo para renovar' 
+   editable="false" textAlignment="center"></Label>
+  <Label text= 'su contraseña' 
+   editable="false" textAlignment="center"></Label>
+  <Label text= '' 
+   editable="false" textAlignment="center"></Label>
+  <Label text= 'Si ya posee un código,presione' 
+   editable="false" textAlignment="center"></Label>
+  <Label text= 'Ingresar Código' 
+   editable="false" textAlignment="center"></Label>
+  <Button text="Recuperar" class="submit-button" (tap)="login()"></Button>
+  <Button text="Ingresar Código" (tap)="toggleDisplay()"></Button>
+  </StackLayout>

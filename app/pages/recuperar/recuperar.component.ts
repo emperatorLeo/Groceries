@@ -6,10 +6,10 @@ import { Router } from "@angular/router";
 @Component({
   selector: "my-app",
   providers:[UserService],
-  templateUrl:"pages/login/login.html",
-  styleUrls: ["pages/login/login-common.css","pages/login/login.css"]
+  templateUrl:"pages/recuperar/recuperar.html",
+  styleUrls: ["pages/recuperar/recuperar-common.css","pages/recuperar/recuperar.css"]
 })
-export class LoginComponent {
+export class RecuperarComponent {
   user : User;
   isLogginIn= true;
 
