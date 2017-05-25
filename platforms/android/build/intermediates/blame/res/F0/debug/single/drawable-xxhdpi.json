@@ -8,6 +8,10 @@
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/logo_login.png"
     },
     {
+        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/white_background.png",
+        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/white_background.png"
+    },
+    {
         "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/selected.png",
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/selected.png"
     },
@@ -24,6 +28,10 @@
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/recent.png"
     },
     {
+        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/ic_fenix.png",
+        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/ic_fenix.png"
+    },
+    {
         "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/delete.png",
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/delete.png"
     },
@@ -32,12 +40,20 @@
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/add.png"
     },
     {
+        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/background.png",
+        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/background.png"
+    },
+    {
         "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/nonselected.png",
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/nonselected.png"
     },
     {
         "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/checked_white.png",
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/checked_white.png"
+    },
+    {
+        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/logo.png",
+        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/logo.png"
     },
     {
         "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/unchecked.png",
@@ -58,6 +74,10 @@
     {
         "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/pear.png",
         "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/pear.png"
+    },
+    {
+        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/fenix_logo.png",
+        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-xxhdpi/fenix_logo.png"
     },
     {
         "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/checked.png",

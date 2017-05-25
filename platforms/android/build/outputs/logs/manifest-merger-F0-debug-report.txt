@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:2:1-40:12
+ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:2:1-42:12
 	package
 		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:3:2-38
 		INJECTED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml
@@ -64,7 +64,7 @@ ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main
 	android:name
 		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:19:19-61
 application
-ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:21:2-39:16
+ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:21:2-41:16
 MERGED from [:widgets-release:] /home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/AndroidManifest.xml:11:5-12:19
 MERGED from [com.android.support:design:25.3.1] /home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:29:5-20
@@ -88,27 +88,35 @@ MERGED from [com.android.support:support-compat:25.3.1] /home/leosantana/Workspa
 	android:name
 		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:22:3-49
 activity#com.tns.NativeScriptActivity
-ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:27:3-37:14
+ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:27:3-39:14
 	android:label
 		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:29:4-49
 	android:configChanges
 		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:30:4-65
+	android:theme
+		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:31:4-44
 	android:name
 		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:28:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:32:9-33:40
+	android:resource
+		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:33:3-37
+	android:name
+		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:32:20-54
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:32:5-36:20
+ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:34:5-38:20
 action#android.intent.action.MAIN
-ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:33:5-57
+ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:35:5-57
 	android:name
-		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:33:13-54
+		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:35:13-54
 category#android.intent.category.LAUNCHER
-ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:35:5-65
+ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:37:5-65
 	android:name
-		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:35:15-62
+		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:37:15-62
 activity#com.tns.ErrorReportActivity
-ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:38:3-57
+ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:40:3-57
 	android:name
-		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:38:13-55
+		ADDED from /home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/AndroidManifest.xml:40:13-55
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] /home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.1/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/AndroidManifest.xml:25:5-27:34
