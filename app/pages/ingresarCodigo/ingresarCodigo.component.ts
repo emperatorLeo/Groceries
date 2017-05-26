@@ -2,18 +2,18 @@ import { Component } from "@angular/core";
 import { User} from "../../shared/user/user";
 import { UserService} from "../../shared/user/user.service"
 import { Router } from "@angular/router";
-import { Page } from "ui/page";
+import { Page} from "ui/page";
 @Component({
   selector: "my-app",
   providers:[UserService],
-  templateUrl:"pages/login/login.html",
-  styleUrls: ["pages/login/login-common.css","pages/login/login.css"]
+  templateUrl:"pages/ingresarCodigo/ingresarCodigo.html",
+  styleUrls: ["pages/ingresarCodigo/ingresarCodigo-common.css","pages/ingresarCodigo/ingresarCodigo.css"]
 })
-export class LoginComponent {
+export class IngresarCodigoComponent {
   user : User;
   isLogginIn= true;
 
-  constructor(private router : Router ,page:Page){
+  constructor(private router : Router , page:Page){
     this.user = new User();
     this.user.email="leo@gomail.ven";
     this.user.clave="clave";
@@ -21,20 +21,17 @@ export class LoginComponent {
   }
 
   submit(){
-    if(this.isLogginIn){
-      this.login();
-    }else{
-      this.signUp();
-    }
+    this.router.navigate(["/inicioSesion"])
 }
 login(){
-  this.router.navigate(["/inicioSesion"])
- }
+  }
 signUp(){
-  this.router.navigate(["/list"])
   }
   toggleDisplay(){
     this.isLogginIn = !this.isLogginIn;
     this.user.clave = null;
+  }
+  forgot(){
+    
   }
 }

@@ -7,10 +7,10 @@ import { Page} from "ui/page"
 @Component({
   selector: "my-app",
   providers:[UserService],
-  templateUrl:"pages/inicioSesion/inicioSesion.html",
-  styleUrls: ["pages/inicioSesion/inicioSesion-common.css","pages/inicioSesion/inicioSesion.css"]
+  templateUrl:"pages/bienvenida/bienvenida.html",
+  styleUrls: ["pages/bienvenida/bienvenida-common.css","pages/bienvenida/bienvenida.css"]
 })
-export class InicioSesionComponent {
+export class BienvenidaComponent {
   user : User;
   isLogginIn= true;
   constructor(private router : Router,page:Page){
@@ -21,23 +21,11 @@ export class InicioSesionComponent {
   }
 
   submit(){
-    if(this.isLogginIn){
-      this.login();
-    }else{
-      this.signUp();
     }
-}
-login(){
+okButton(){
   
- /* this.router.navigate(["/"])
-  this.userService.login(this.user).subscribe(
-    ()=> this.router.navigate(["/list"]),
-    (error) => alert("no pudimos encontrar tu cuenta")
-  )
-*/
 }
 signUp(){
-  this.router.navigate(["/bienvenida"]);
   }
   toggleDisplay(){
     this.isLogginIn = !this.isLogginIn;

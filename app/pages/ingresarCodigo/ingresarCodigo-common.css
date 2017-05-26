@@ -9,10 +9,12 @@ margin-top: 5;
 margin-bottom: 20;
 }
 TextField{
-margin-left: 16;
+ margin-left: 16;
 margin-right: 16;
 margin-bottom: 10;
-text-align: center;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
 }
 Button{
     margin-left: 16;
@@ -25,5 +27,8 @@ Button{
 }
 Label{
     color: #000066;
-    text-align: center;
+    margin-left: 20;
+}
+.submit-button{
+    margin-top: 20;
 }

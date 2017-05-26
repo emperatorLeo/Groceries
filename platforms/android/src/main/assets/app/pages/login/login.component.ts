@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 import { User} from "../../shared/user/user";
 import { UserService} from "../../shared/user/user.service"
 import { Router } from "@angular/router";
-
+import { Page } from "ui/page";
 @Component({
   selector: "my-app",
   providers:[UserService],
@@ -13,10 +13,11 @@ export class LoginComponent {
   user : User;
   isLogginIn= true;
 
-  constructor(private router : Router , private userService: UserService){
+  constructor(private router : Router ,page:Page){
     this.user = new User();
     this.user.email="leo@gomail.ven";
     this.user.clave="clave";
+    page.actionBarHidden=true;
   }
 
   submit(){
@@ -28,22 +29,10 @@ export class LoginComponent {
 }
 login(){
   this.router.navigate(["/inicioSesion"])
- /* this.userService.login(this.user).subscribe(
-    ()=> this.router.navigate(["/list"]),
-    (error) => alert("no pudimos encontrar tu cuenta")
-  )
-*/
-}
+ }
 signUp(){
   this.router.navigate(["/list"])
-  /*this.userService.register(this.user)
-  .subscribe(
-    ()=>{
-      alert("tu cuenta ha sido creada exitosamente");
-      this.toggleDisplay();
-    },()=> alert("no se pudo crear tu cuenta")
-  );*/
-}
+  }
   toggleDisplay(){
     this.isLogginIn = !this.isLogginIn;
     this.user.clave = null;
