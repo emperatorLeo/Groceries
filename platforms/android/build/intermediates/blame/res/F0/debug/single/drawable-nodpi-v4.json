@@ -1,6 +1,6 @@
 [
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-nodpi-v4/splash_screen.xml",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-nodpi/splash_screen.xml"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi-v4\\splash_screen.xml",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-nodpi\\splash_screen.xml"
     }
 ]

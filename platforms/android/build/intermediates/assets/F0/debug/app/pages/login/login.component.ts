@@ -27,20 +27,22 @@ export class LoginComponent {
     }
 }
 login(){
-  this.userService.login(this.user).subscribe(
+  this.router.navigate(["/inicioSesion"])
+ /* this.userService.login(this.user).subscribe(
     ()=> this.router.navigate(["/list"]),
     (error) => alert("no pudimos encontrar tu cuenta")
   )
-
+*/
 }
 signUp(){
-  this.userService.register(this.user)
+  this.router.navigate(["/list"])
+  /*this.userService.register(this.user)
   .subscribe(
     ()=>{
       alert("tu cuenta ha sido creada exitosamente");
       this.toggleDisplay();
     },()=> alert("no se pudo crear tu cuenta")
-  );
+  );*/
 }
   toggleDisplay(){
     this.isLogginIn = !this.isLogginIn;

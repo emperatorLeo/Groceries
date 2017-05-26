@@ -1,90 +1,90 @@
 [
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/banana.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/banana.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\delete.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\delete.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo_signup.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/logo_signup.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\fenix_logo.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\fenix_logo.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/pear.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/pear.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\background.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\background.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/add.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/add.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\recent.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\recent.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/selected.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/selected.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\ic_menu.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\ic_menu.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/nonselected.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/nonselected.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\logo.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/menu.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/menu.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\nonselected.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\nonselected.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/checked.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/checked.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\ic_fenix.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\ic_fenix.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/white_background.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/white_background.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\logo_signup.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo_signup.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/unchecked_white.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/unchecked_white.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\logo_login.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\logo_login.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/fenix_logo.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/fenix_logo.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\checked.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\checked.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/icon.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/icon.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\pear.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\pear.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/delete.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/delete.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\apple.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\apple.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/ic_menu.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/ic_menu.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\selected.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\selected.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/recent.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/recent.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\unchecked_white.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\unchecked_white.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/logo.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\white_background.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\white_background.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo_login.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/logo_login.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\banana.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\banana.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/apple.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/apple.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\menu.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\menu.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/ic_fenix.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/ic_fenix.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\unchecked.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\unchecked.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/checked_white.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/checked_white.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\icon.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/unchecked.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/unchecked.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\add.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\add.png"
     },
     {
-        "merged": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/background.png",
-        "source": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/src/main/res/drawable-mdpi/background.png"
+        "merged": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-mdpi\\checked_white.png",
+        "source": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\src\\main\\res\\drawable-mdpi\\checked_white.png"
     }
 ]

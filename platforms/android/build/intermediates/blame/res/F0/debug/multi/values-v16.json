@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/incremental/mergeF0DebugResources/merged.dir/values-v16/values-v16.xml",
+        "outputFile": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\incremental\\mergeF0DebugResources\\merged.dir\\values-v16\\values-v16.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 116
                 },
                 "from": {
-                    "file": "/home/leosantana/WorkspaceNative/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/values-v16/values-v16.xml",
+                    "file": "C:\\Users\\emperator\\NativeScript\\Groceries\\platforms\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.3.1\\res\\values-v16\\values-v16.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
